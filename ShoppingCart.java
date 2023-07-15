@@ -62,7 +62,7 @@ public class ShoppingCart {
 
     public void viewRecommendations() {
         for(Item item : recommendations) {
-            System.out.println(item.getName() + ": Rs + item.getPrice();
+            System.out.println(item.getName() + ": Rs" + item.getPrice());
         }
     }
 
