@@ -82,7 +82,7 @@ class Item {
         return name;
     }
 
-    public String geSpecs() {
+    public String getSpecs() {
         return specs;
     }
 }
